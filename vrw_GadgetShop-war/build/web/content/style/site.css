@@ -1,0 +1,28 @@
+/* Master reset for all browsers */
+h1, h2, h3, input, div, a
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    margin: 0 auto 0 auto;
+    padding: 0;
+    font-family: "Trebuchet;Arial;Verdana";
+    font-size: 12px;
+    font-weight: normal;
+    background-color: white;
+    width: 800px;
+    border: 1px solid white;
+}
+
+h1 { font-size: 20px; }
+h2 { font-size: 16px;}
+h3 { font-size: 14px;}
+
+input text
+{
+    
+}
+
